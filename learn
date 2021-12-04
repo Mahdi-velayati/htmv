@@ -2,21 +2,25 @@
   {
     "title": "Strong,title,hr,h,p,s,center",
     "link": "https://www.aparat.com/video/video/embed/videohash/Ol27d/vt/frame",
-    "type": "h"
+    "type": "h",
+    "tamrin": "یک شعر بیشتر از ۴بیت پیدا کنید و در بعضی از قسمت های آن از این تگ ها استفاده و اجرا کنید"
   },
   {
     "title": "اتصال html به css",
     "link": "https://www.aparat.com/video/video/embed/videohash/7PmSz/vt/frame",
-    "type": "h"
+    "type": "hc",
+    "tamrin": "۳ فایل html را با آدرس دهی سخت به css متصل کنید"
   },
   {
     "title": "آموزش کار با table",
     "link": "https://www.aparat.com/video/video/embed/videohash/p5IWY/vt/frame",
-    "type": "h"
+    "type": "hc",
+    "tamrin": "جدولی بسازید که نام و قیمت گوشی های galaxy a01 تا a32 را نشان دهد"
   },
-{
-  "link": "https://www.aparat.com/video/video/embed/videohash/Aw4dl/vt/frame",
-  "type": "h",
-  "title": "input"
-}
+  {
+    "link": "https://www.aparat.com/video/video/embed/videohash/Aw4dl/vt/frame",
+    "type": "h",
+    "title": "input",
+    "tamrin": "با انواع input ها کار کنید و یک فرم login و یک فرم نظرسنجی radio درست کنید."
+  }
 ]
