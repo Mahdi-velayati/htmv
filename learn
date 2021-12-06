@@ -1,50 +1,50 @@
 [
   {
-    "title": "قوی، عنوان، ساعت، ساعت، ص، ثانیه، مرکز"،
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/Ol27d/vt/frame"،
-    "نوع": "html"،
-    «تامرین»: «یک شعر بیشتر از ۴بیت پیدا کنید و از این قسمت استفاده کنید و اجرا کنید»
-  }،
+    "title": "Strong,title,hr,h,p,s,center",
+    "link": "https://www.aparat.com/video/video/embed/videohash/Ol27d/vt/frame",
+    "type": "html",
+    "tamrin": "یک شعر بیشتر از ۴بیت پیدا کنید و در بعضی از قسمت های آن از این تگ ها استفاده و اجرا کنید"
+  },
   {
     "title": "اتصال html به css",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/7PmSz/vt/frame"،
+    "link": "https://www.aparat.com/video/video/embed/videohash/7PmSz/vt/frame",
     "type": "html,css",
-    "tamrin": "3 فایل html را با آدرس دهی سخت به css متصل کنید"
-  }،
+    "tamrin": "۳ فایل html را با آدرس دهی سخت به css متصل کنید"
+  },
   {
-    "title": "آموزش کار با جدول",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/p5IWY/vt/frame"،
-    "نوع": "html"،
-    "تامرین": "جدولی بسازید که نام و قیمت گوشی های galaxy a01 تا a32 را نشان می دهد"
-  }،
+    "title": "آموزش کار با table",
+    "link": "https://www.aparat.com/video/video/embed/videohash/p5IWY/vt/frame",
+    "type": "html",
+    "tamrin": "جدولی بسازید که نام و قیمت گوشی های galaxy a01 تا a32 را نشان دهد"
+  },
   {
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/Aw4dl/vt/frame"،
-    "نوع": "html"،
-    "عنوان": "ورودی"،
-    "تامرین": "با انواع ورودی ها کار کنید و یک فرم login و یک فرم نظرسنجی radio درست کنید."
-  }،
+    "link": "https://www.aparat.com/video/video/embed/videohash/Aw4dl/vt/frame",
+    "type": "html",
+    "title": "input",
+    "tamrin": "با انواع input ها کار کنید و یک فرم login و یک فرم نظرسنجی radio درست کنید."
+  },
   {
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/FZMRc/vt/frame"،
-    "نوع": "html"،
+    "link": "https://www.aparat.com/video/video/embed/videohash/FZMRc/vt/frame",
+    "type": "html",
     "title": "audio,img,video,iframe",
-    "تامرین": "با هر یک از آنها کار کنید"
-  }،
+    "tamrin": "با هر یک از آنها کار کنید"
+  },
   {
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/u7xgW/vt/frame"،
-    "نوع": "html"،
-    "عنوان": "ul، ol،li"،
-    "تامرین": "چند لیست بسازید"
-  }،
+    "link": "https://www.aparat.com/video/video/embed/videohash/u7xgW/vt/frame",
+    "type": "html",
+    "title": "ul,ol,li",
+    "tamrin": "چند لیست بسازید"
+  },
   {
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/TkIGB/vt/frame"،
-    "نوع": "html"،
-    "عنوان": "گفتگو"،
-    «تامرین»: «با دیالوگ کارکنید»
-  }،
+    "link": "https://www.aparat.com/video/video/embed/videohash/TkIGB/vt/frame",
+    "type": "html",
+    "title": "dialog",
+    "tamrin": "با دیالوگ کارکنید"
+  },
   {
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/Tz72Z/vt/frame"،
-    "نوع": "html"،
-    "عنوان": "dd,dl,dt",
-    "تامرین": "از یک تا صد اینکار را بدید"
-  }
+    "link": "https://www.aparat.com/video/video/embed/videohash/Tz72Z/vt/frame",
+    "type": "html",
+    "title": "dd,dl,dt",
+    "tamrin": "از یک تا ۱۰۰ اینکار را انجام بدید"
+  }{}
 ]
