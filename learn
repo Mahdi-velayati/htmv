@@ -2,7 +2,7 @@
   {
     "title": "Strong,title,hr,h,p,s,center",
     "link": "https://www.aparat.com/video/video/embed/videohash/Ol27d/vt/frame",
-    "type": "html" ,
+    "type": "html",
     "tamrin": "یک شعر بیشتر از ۴بیت پیدا کنید و در بعضی از قسمت های آن از این تگ ها استفاده و اجرا کنید"
   },
   {
@@ -41,7 +41,7 @@
     "title": "dialog",
     "tamrin": "با دیالوگ کارکنید"
   },
-    {
+  {
     "link": "https://www.aparat.com/video/video/embed/videohash/Tz72Z/vt/frame",
     "type": "html",
     "title": "dd,dl,dt",
