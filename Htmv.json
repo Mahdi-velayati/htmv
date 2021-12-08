@@ -2,49 +2,41 @@
   {
     "title": "Strong,title,hr,h,p,s,center",
     "link": "https://www.aparat.com/video/video/embed/videohash/Ol27d/vt/frame",
-    "type": "html",
-    "tamrin": "یک شعر بیشتر از ۴بیت پیدا کنید و در بعضی از قسمت های آن از این تگ ها استفاده و اجرا کنید"
+    "type": "html"
   },
   {
     "title": "اتصال html به css",
     "link": "https://www.aparat.com/video/video/embed/videohash/7PmSz/vt/frame",
-    "type": "html,css",
-    "tamrin": "۳ فایل html را با آدرس دهی سخت به css متصل کنید"
+    "type": "html,css"
   },
   {
     "title": "آموزش کار با table",
     "link": "https://www.aparat.com/video/video/embed/videohash/p5IWY/vt/frame",
-    "type": "html",
-    "tamrin": "جدولی بسازید که نام و قیمت گوشی های galaxy a01 تا a32 را نشان دهد"
+    "type": "html"
   },
   {
     "link": "https://www.aparat.com/video/video/embed/videohash/Aw4dl/vt/frame",
     "type": "html",
-    "title": "input",
-    "tamrin": "با انواع input ها کار کنید و یک فرم login و یک فرم نظرسنجی radio درست کنید."
+    "title": "input"
   },
   {
     "link": "https://www.aparat.com/video/video/embed/videohash/FZMRc/vt/frame",
     "type": "html",
-    "title": "audio,img,video,iframe",
-    "tamrin": "با هر یک از آنها کار کنید"
+    "title": "audio,img,video,iframe"
   },
   {
     "link": "https://www.aparat.com/video/video/embed/videohash/u7xgW/vt/frame",
     "type": "html",
-    "title": "ul,ol,li",
-    "tamrin": "چند لیست بسازید"
+    "title": "ul,ol,li"
   },
   {
     "link": "https://www.aparat.com/video/video/embed/videohash/TkIGB/vt/frame",
     "type": "html",
-    "title": "dialog",
-    "tamrin": "با دیالوگ کارکنید"
+    "title": "dialog"
   },
   {
     "link": "https://www.aparat.com/video/video/embed/videohash/Tz72Z/vt/frame",
     "type": "html",
-    "title": "dd,dl,dt",
-    "tamrin": "از یک تا ۱۰۰ اینکار را انجام بدید"
+    "title": "dd,dl,dt"
   }
 ]
