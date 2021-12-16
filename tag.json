@@ -1,1 +1,42 @@
 
+[
+  {
+    "type": "python"
+  },
+  {
+    "type": "c"
+  },
+  {
+    "type": "c++"
+  },
+  {
+    "type": "java"
+  },
+  {
+    "type": "c#"
+  },
+  {
+    "type": "R"
+  },
+  {
+    "type": "go"
+  },
+  {
+    "type": "js"
+  },
+  {
+    "type": "php"
+  },
+  {
+    "type": "flutter"
+  },
+  {
+    "type": "arduino"
+  },
+  {
+    "type": "Ruby"
+  },
+  {
+    "type": "html"
+  }
+]
