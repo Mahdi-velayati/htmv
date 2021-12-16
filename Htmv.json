@@ -1,42 +1,7 @@
 [
   {
-    "title": "Strong,title,hr,h,p,s,center",
-    "link": "https://www.aparat.com/video/video/embed/videohash/Ol27d/vt/frame",
+    "title": "بخش۱،درس ۱",
+    "link": "https://cloud.amoozesh365.ir/video/amoozesh-html-beginner/amoozesh-html-beginner-1.mp4",
     "type": "html"
-  },
-  {
-    "title": "اتصال html به css",
-    "link": "https://www.aparat.com/video/video/embed/videohash/7PmSz/vt/frame",
-    "type": "html,css"
-  },
-  {
-    "title": "آموزش کار با table",
-    "link": "https://www.aparat.com/video/video/embed/videohash/p5IWY/vt/frame",
-    "type": "html"
-  },
-  {
-    "link": "https://www.aparat.com/video/video/embed/videohash/Aw4dl/vt/frame",
-    "type": "html",
-    "title": "input"
-  },
-  {
-    "link": "https://www.aparat.com/video/video/embed/videohash/FZMRc/vt/frame",
-    "type": "html",
-    "title": "audio,img,video,iframe"
-  },
-  {
-    "link": "https://www.aparat.com/video/video/embed/videohash/u7xgW/vt/frame",
-    "type": "html",
-    "title": "ul,ol,li"
-  },
-  {
-    "link": "https://www.aparat.com/video/video/embed/videohash/TkIGB/vt/frame",
-    "type": "html",
-    "title": "dialog"
-  },
-  {
-    "link": "https://www.aparat.com/video/video/embed/videohash/Tz72Z/vt/frame",
-    "type": "html",
-    "title": "dd,dl,dt"
   }
 ]
